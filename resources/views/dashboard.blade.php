@@ -4,14 +4,9 @@
 @section('contenido')
 @include('dashboard.partials.validation-error')
 
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
+   
 
-    <div>
+    <div class="bt-20">
         <div>
             <section class="p-5">
                 <div class="container">
@@ -41,6 +36,6 @@
             </section>
         </div>
 
-
-
     </div>
+
+    @endsection
